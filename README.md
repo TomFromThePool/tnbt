@@ -10,4 +10,4 @@ Features include:
 * Controlled Demolitions
 
 In addition to the above, all proceeds generated from this software will
-be used to fund Advanced Science at the Institute of General Excellence.
+be used to fund Recreational Eccentricity at the University of Whimsy.
