@@ -8,3 +8,6 @@ Features include:
 * Robust Content
 * All-Natural Ingredients
 * Controlled Demolitions
+
+In addition to the above, all proceeds generated from this software will
+be used to fund Advanced Science at the Institute of General Excellence.
